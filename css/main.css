@@ -1,0 +1,52 @@
+body {
+  font-family: Lato, sans-serif;
+  font-weight: 300
+}
+
+a {
+  color: #333;
+}
+
+
+#main {
+  text-align: center;
+  transform: translateY(10%)
+}
+
+#main p {
+  font-size: 18px
+}
+
+#main h1 {
+  font-size: 35px
+}
+
+#main ul {
+  padding: 0
+}
+
+#main li {
+  display: inline;
+  padding: 20px
+}
+
+.profile {
+  height: 350px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: 100% auto;
+  background-position: center;
+  background-image: url('../mckeldin.jpg');
+  border-radius: 50%;
+  opacity: 0.95;
+}
+
+/* visited link */
+a:visited {
+    color: #333;
+}
+
+div.container {
+  background-color: white;
+}
