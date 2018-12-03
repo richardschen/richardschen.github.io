@@ -21,6 +21,10 @@ a {
   font-size: 35px
 }
 
+#main h2 {
+  font-size: 20px
+}
+
 #main ul {
   padding: 0
 }
@@ -49,4 +53,32 @@ a:visited {
 
 div.container {
   background-color: white;
+}
+
+.group {
+  max-width: 700px;
+  margin: auto;
+}
+
+.item {
+}
+
+.company {
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.jobtitle {
+  font-size: 15px;
+  text-align: left;
+  font-style: italic;
+}
+
+.team {
+  font-size: 18px;
+}
+
+.date {
+  font-size: 20px;
 }
